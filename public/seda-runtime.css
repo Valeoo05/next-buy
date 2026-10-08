@@ -1,0 +1,143 @@
+body{margin:0;background:#101e2b;color:#e9f1e2;font-family:Manrope,Arial,sans-serif}
+#nexbuy-web{max-width:1240px;margin:0 auto}
+#nexbuy-web [hidden]{display:none!important}
+#nexbuy-web a{color:inherit}
+#nexbuy-web a.nx-wordmark{text-decoration:none}
+#nexbuy-web .nx-wordmark small{display:block}
+#nexbuy-web .nx-nav-button,#nexbuy-web .nx-business a{display:inline-flex;align-items:center;text-decoration:none}
+#nexbuy-web .nx-business a{gap:8px;min-height:44px;font-size:12px;color:#d2eabc}
+#nexbuy-web button,#nexbuy-web summary{cursor:pointer}
+#nexbuy-web button:disabled{cursor:wait;opacity:.65}
+#nexbuy-web .icon{width:16px;height:16px;fill:none;stroke:currentColor;stroke-width:1.7;stroke-linecap:round;stroke-linejoin:round;flex-shrink:0;display:inline-block;vertical-align:middle}
+#nexbuy-web .sr-form .field{display:flex;flex-direction:column;gap:8px;margin:0;font-size:12px;color:#42533c;font-weight:500}
+#nexbuy-web .sr-form .field input,#nexbuy-web .sr-form .field textarea,#nexbuy-web .sr-form .field select{width:100%;border:1px solid #d5dfcc;border-radius:13px;padding:13px 15px;background:#fffefb;color:#273e34;font:14px/1.6 Manrope,Arial,sans-serif;box-sizing:border-box;min-height:49px}
+#nexbuy-web .sr-form .field input::placeholder,#nexbuy-web .sr-form .field textarea::placeholder{color:#6e7b62;opacity:1}
+#nexbuy-web .sr-form .field input[data-product-name]{font-size:16px;min-height:58px}
+#nexbuy-web .sr-form .field textarea{min-height:86px;resize:vertical}
+#nexbuy-web .sr-form .field .required{display:none}
+#nexbuy-web .optional{font-size:11px;font-weight:400;color:#66765e}
+#nexbuy-web .sr-form .field-row{display:grid;grid-template-columns:1fr 1fr;gap:16px}
+#nexbuy-web .sr-form .nf-quantity input{width:0;flex:1;padding:4px 2px;border:0;border-radius:0;text-align:center;appearance:textfield;background:transparent;min-height:56px;font-size:16px}
+#nexbuy-web .sr-form .nf-quantity input::-webkit-inner-spin-button{appearance:none}
+#nexbuy-web .sr-form .nf-quantity button{min-height:56px}
+#nexbuy-web .nf-reference{margin-top:18px}
+#nexbuy-web .nf-extra-product+.nf-extra-product{margin-top:15px}
+#nexbuy-web .nf-extra-product select{margin-top:8px}
+#nexbuy-web .field-error,#nexbuy-web .error-summary{font-size:12px;line-height:1.7;color:#a24630;margin:7px 0 0}
+#nexbuy-web .error-summary{padding:12px;background:#fff0e7;border-radius:12px;margin-bottom:15px}
+#nexbuy-web .field-help,#nexbuy-web .storage-warning{font-size:12px;line-height:1.7;color:#65765c;margin:6px 0}
+#nexbuy-web .draft-recovery{display:flex;align-items:center;justify-content:space-between;gap:12px;flex-wrap:wrap;padding:12px 14px;border-radius:12px;background:#edf3e4;color:#526c3f;font-size:12px;margin-bottom:18px}
+#nexbuy-web .draft-recovery button,#nexbuy-web .text-link{font:inherit;min-height:39px;border:0;background:transparent;color:inherit;text-decoration:underline;text-underline-offset:3px}
+#nexbuy-web .sr-form .button{display:inline-flex;align-items:center;justify-content:space-between;gap:10px;font:12px Manrope,Arial,sans-serif;padding:12px 18px;min-height:45px;border:1px solid #cddbc1;border-radius:99px;background:#edf3e4;color:#314b34}
+#nexbuy-web .sr-form .button-primary{background:#243e39;color:#f5f8ec;border:0}
+#nexbuy-web .nf-optionals{font-size:12px;color:#65765c;margin-top:19px}
+#nexbuy-web .nf-optionals summary{min-height:44px;padding:9px 0;text-decoration:underline;text-underline-offset:3px}
+#nexbuy-web .nf-optionals .field,#nexbuy-web .nf-optionals .field-row{margin-top:15px}
+#nexbuy-web .image-gallery{display:flex;flex-wrap:wrap;gap:12px;margin-top:12px}
+#nexbuy-web .image-gallery figure{margin:0;width:95px;position:relative}
+#nexbuy-web .image-gallery img{width:95px;height:77px;border-radius:10px;border:1px solid #d4dfc8;object-fit:cover}
+#nexbuy-web .image-gallery figcaption{font-size:11px;line-height:1.6;overflow-wrap:anywhere;color:#65765c}
+#nexbuy-web .image-gallery button{min-height:39px;border:0;background:transparent;font:11px Manrope,Arial,sans-serif;color:#526c3f;padding:5px 0;display:flex;align-items:center;gap:3px}
+#nexbuy-web .image-gallery button .icon{width:12px;height:12px}
+#nexbuy-web .review-group{margin-top:20px;padding-bottom:18px;border-bottom:1px solid #d7e1ce}
+#nexbuy-web .review-header{display:flex;justify-content:space-between;align-items:center;gap:12px;margin-bottom:12px}
+#nexbuy-web .review-header h4{font:500 11px Manrope,Arial,sans-serif;color:#607650;letter-spacing:1px;margin:0}
+#nexbuy-web .review-header button{border:0;border-radius:99px;background:#eef4e5;color:#6a8153;padding:8px 13px;min-height:39px;font:11px Manrope,Arial,sans-serif}
+#nexbuy-web .review-product strong{font:500 27px/1.2 'Cormorant Garamond',Georgia,serif;display:block;color:#3b5534}
+#nexbuy-web .review-product p,#nexbuy-web .review-product small{font-size:12px;line-height:1.8;white-space:pre-wrap;color:#65765c;margin:7px 0;display:block}
+#nexbuy-web .review-product+.review-product{margin-top:16px}
+#nexbuy-web .review-grid{display:grid;grid-template-columns:1fr 1fr;gap:12px;font-size:12px;margin:0}
+#nexbuy-web .review-grid dt{font-size:11px;color:#65765c}
+#nexbuy-web .review-grid dd{margin:5px 0 0;color:#263b36;overflow-wrap:anywhere}
+#nexbuy-web .review-line{font-size:12px;line-height:1.8}
+#nexbuy-web .review-line dd{margin:0;white-space:pre-wrap}
+#nexbuy-web .approval-notice{display:flex;gap:10px;font-size:12px;line-height:1.8;color:#52674a;padding:14px;background:#edf3e4;border-radius:12px;margin-top:17px}
+#nexbuy-web .checkbox-row{display:flex;align-items:flex-start;gap:9px;font-size:12px;line-height:1.8;color:#52674a;margin:18px 0}
+#nexbuy-web .checkbox-row input{width:17px;height:17px;flex-shrink:0;accent-color:#557846;margin:3px 0 0}
+#nexbuy-web .success{color:#263b36;font-size:14px;line-height:1.8}
+#nexbuy-web .success h3{font:500 38px/1.2 'Cormorant Garamond',Georgia,serif}
+#nexbuy-web .request-code{display:inline-block;padding:9px;background:#edf3e4;border-radius:9px;font-size:12px;overflow-wrap:anywhere;max-width:100%}
+#nexbuy-web .success-buttons,#nexbuy-web .request-item-actions,#nexbuy-web .detail-actions{display:flex;gap:10px;flex-wrap:wrap;margin-top:15px}
+#nexbuy-web .success-new{border:0;background:transparent;min-height:44px;color:#526c3f;font:12px Manrope,Arial,sans-serif;text-decoration:underline}
+#nexbuy-web #app-dialog{width:650px;max-width:calc(100% - 30px);padding:25px;color:#263b36;background:#fafbf2;border:1px solid #c8d8b9;border-radius:22px;max-height:85vh;overflow:auto}
+#nexbuy-web #app-dialog::backdrop{background:#0b1c20b8}
+#nexbuy-web .dialog-header{display:flex;justify-content:space-between;gap:12px;align-items:center}
+#nexbuy-web .dialog-header h2{font:500 34px/1.2 'Cormorant Garamond',Georgia,serif;margin:0}
+#nexbuy-web .icon-button{width:44px;height:44px;border:0;background:#edf3e4;border-radius:99px;color:#263b36;flex-shrink:0}
+#nexbuy-web .dialog-copy,#nexbuy-web .dialog-footnote,#nexbuy-web .delete-confirm{font-size:14px;line-height:1.9;color:#52674a}
+#nexbuy-web .dialog-copy h3{font:500 25px 'Cormorant Garamond',Georgia,serif;color:#263b36}
+#nexbuy-web .dialog-copy a{color:#3d6939;text-decoration:underline}
+#nexbuy-web #app-dialog .button,#nexbuy-web .request-item-actions button{border:1px solid #cddbc1;border-radius:99px;padding:10px 16px;background:#edf3e4;color:#314b34;min-height:44px;font:12px Manrope,Arial,sans-serif}
+#nexbuy-web #app-dialog .button-primary{background:#243e39;color:#f5f8ec}
+#nexbuy-web .request-item{padding:17px 0;border-bottom:1px solid #d7e1ce;font-size:12px}
+#nexbuy-web .request-item-header{display:flex;justify-content:space-between;gap:15px;flex-wrap:wrap}
+#nexbuy-web .request-item-header strong,#nexbuy-web .request-item-header small{display:block}
+#nexbuy-web .pending-badge{font-size:11px;color:#607650}
+#nexbuy-web .empty-state{font-size:14px;line-height:1.8;color:#52674a;margin-top:20px}
+#nexbuy-web .count{font-size:11px;padding:2px 6px;background:#cce9b4;color:#263b36;border-radius:99px;margin-left:4px}
+#toast{position:fixed;bottom:20px;left:50%;transform:translateX(-50%);max-width:calc(100% - 30px);box-sizing:border-box;padding:12px 18px;border:1px solid #a4c98b;background:#243e39;color:#f5f8ec;border-radius:14px;z-index:50;font-size:13px}
+.skip-link{position:absolute;left:15px;top:-80px;z-index:99;background:#cce9b4;color:#263b36;padding:12px;border-radius:12px}.skip-link:focus{top:15px}
+@media(max-width:660px){#nexbuy-web .sr-form .field input,#nexbuy-web .sr-form .field select,#nexbuy-web .sr-form .field textarea{font-size:16px}#nexbuy-web .sr-form .field-row{grid-template-columns:1fr}#nexbuy-web .review-grid{grid-template-columns:1fr}#nexbuy-web .nx-nav .nx-nav-button[data-quote]{display:none}}
+
+@media(max-width:660px){#nexbuy-web [data-home-page] .nx-nav-button[data-how]{display:none}#nexbuy-web [data-home-page] .sk-stock-nav{display:inline-flex}}
+@media(max-width:340px){#nexbuy-web [data-home-page] .nx-header{flex-wrap:wrap;padding:14px 0;gap:4px}#nexbuy-web [data-home-page] .nx-nav{max-width:none;width:100%;justify-content:space-between}}
+#nexbuy-web button.sk-cover{width:100%;border:0;padding:0;font:inherit;cursor:pointer;overflow:hidden;text-align:left}
+#nexbuy-web [data-card-name]{border:0;background:none;padding:0;color:inherit;font:inherit;text-align:left;cursor:pointer;line-height:inherit}
+#nexbuy-web .sk-cover img{box-sizing:border-box;background:#f0f0f0}
+#nexbuy-web .sg-dialog{box-sizing:border-box;width:980px;max-width:calc(100% - 32px);max-height:92dvh;padding:24px;border:1px solid #bfd1ad;border-radius:24px;background:#fafbf2;color:#263b36;overflow:auto}
+#nexbuy-web .sg-dialog::backdrop{background:#08171ecc;backdrop-filter:blur(5px)}
+#nexbuy-web .sg-header{display:flex;justify-content:space-between;align-items:center;gap:15px;margin-bottom:18px;font-size:12px;letter-spacing:1px;color:#607650}
+#nexbuy-web .sg-close{border:0;background:#e7efde;border-radius:50%;width:44px;height:44px;font-size:28px;color:#263b36}
+#nexbuy-web .sg-layout{display:grid;grid-template-columns:minmax(0,1.35fr) minmax(0,1fr);gap:30px;align-items:center}
+#nexbuy-web .sg-gallery{min-width:0}
+#nexbuy-web .sg-track{display:flex;overflow-x:auto;scroll-snap-type:x mandatory;scrollbar-width:none;border-radius:16px;background:#f0f0f0;overscroll-behavior-x:contain}
+#nexbuy-web .sg-track::-webkit-scrollbar{display:none}
+#nexbuy-web .sg-slide{flex:0 0 100%;min-width:0;margin:0;scroll-snap-align:start;scroll-snap-stop:always;display:flex;align-items:center;justify-content:center;aspect-ratio:1}
+#nexbuy-web .sg-slide img{width:100%;height:100%;object-fit:contain;user-select:none}
+#nexbuy-web .sg-controls{display:flex;justify-content:space-between;align-items:center;gap:12px;margin-top:12px;font-size:14px;color:#52674a}
+#nexbuy-web .sg-controls button{width:44px;height:44px;border:1px solid #c8d8b9;border-radius:50%;font-size:27px;background:#edf3e4;color:#314b34}
+#nexbuy-web .sg-thumbnails{display:flex;justify-content:center;gap:10px;margin-top:10px}
+#nexbuy-web .sg-thumbnails button{width:60px;height:60px;border:2px solid transparent;border-radius:10px;padding:3px;background:#e8efdf;overflow:hidden}
+#nexbuy-web .sg-thumbnails button[aria-pressed=true]{border-color:#526c3f}
+#nexbuy-web .sg-thumbnails img{width:100%;height:100%;object-fit:contain}
+#nexbuy-web .sg-enlarge{display:block;text-align:center;font-size:12px;margin:10px 0;min-height:30px;color:#526c3f;text-decoration:underline;text-underline-offset:4px}
+#nexbuy-web .sg-info h2{font:500 40px/1.1 'Cormorant Garamond',Georgia,serif;margin:9px 0 20px;color:#304b3b}
+#nexbuy-web .sg-description{font-size:16px;line-height:1.7;color:#52674a;white-space:pre-wrap}
+#nexbuy-web .sg-availability{font-size:14px;color:#52674a;margin:13px 0}
+#nexbuy-web .sg-info .sk-price{font-size:30px;margin-top:26px}
+#nexbuy-web .sg-info .sk-delivery{font-size:14px;margin:8px 0 24px}
+#nexbuy-web .sg-info .sk-product-action{box-sizing:border-box;font-size:14px;text-decoration:none}
+#nexbuy-web .sg-note{font-size:12px;color:#65765c;margin:14px 0 0}
+#nexbuy-web .sg-dialog button:focus-visible,#nexbuy-web .sk-product button:focus-visible,#nexbuy-web .sg-track:focus-visible{outline:3px solid #6d9658;outline-offset:3px}
+@media(max-width:660px){#nexbuy-web .sg-dialog{max-width:calc(100% - 20px);padding:18px;border-radius:19px}#nexbuy-web .sg-layout{grid-template-columns:1fr;gap:15px}#nexbuy-web .sg-info h2{font-size:34px}#nexbuy-web .sg-slide{max-height:55dvh}#nexbuy-web .sg-info .sk-price{margin-top:18px}}
+#nexbuy-web .sk-catalog-tools{margin:4px 0 24px}
+#nexbuy-web .sk-category-nav{display:flex;gap:9px;flex-wrap:wrap;margin-bottom:18px}
+#nexbuy-web .sk-category-nav button{display:inline-flex;gap:9px;align-items:center;min-height:44px;padding:10px 17px;border:1px solid #526c5f;border-radius:99px;background:transparent;color:#dce7d8;font:12px Manrope,Arial,sans-serif}
+#nexbuy-web .sk-category-nav button[aria-pressed=true]{background:#cce9b4;border-color:#cce9b4;color:#263b36}
+#nexbuy-web .sk-category-nav button span{font-size:11px;opacity:.75}
+#nexbuy-web .sk-catalog-controls{display:grid;grid-template-columns:minmax(0,1fr) 210px;gap:15px}
+#nexbuy-web .sk-search,#nexbuy-web .sk-sort{display:flex;flex-direction:column;gap:8px;font-size:12px;color:#dce7d8;min-width:0}
+#nexbuy-web .sk-catalog-controls input,#nexbuy-web .sk-catalog-controls select{box-sizing:border-box;width:100%;min-height:48px;padding:12px 16px;border:1px solid #526c5f;border-radius:13px;background:#1b302e;color:#f2f6eb;font:14px Manrope,Arial,sans-serif;color-scheme:dark}
+#nexbuy-web .sk-catalog-controls input::placeholder{color:#aabfb0}
+#nexbuy-web .sk-clear-filters{border:0;background:none;color:#cce9b4;font:12px Manrope,Arial,sans-serif;min-height:44px;text-decoration:underline;text-underline-offset:4px}
+#nexbuy-web .sk-catalog-groups{display:flex;flex-direction:column;gap:34px}
+#nexbuy-web .sk-category-heading{display:flex;align-items:baseline;justify-content:space-between;gap:12px;margin-bottom:15px;padding-bottom:12px;border-bottom:1px solid #38564a}
+#nexbuy-web .sk-category-heading h2{margin:0;color:#e5eddf;font:500 32px/1.2 'Cormorant Garamond',Georgia,serif}
+#nexbuy-web .sk-category-heading span{color:#aabfb0;font-size:11px}
+#nexbuy-web .sk-product-facts{margin:0 0 15px;font-size:11px;line-height:1.6;color:#52674a;display:grid;gap:6px}
+#nexbuy-web .sk-product-facts div{display:grid;grid-template-columns:88px minmax(0,1fr);gap:8px}
+#nexbuy-web .sk-product-facts dt{color:#65765c}
+#nexbuy-web .sk-product-facts dd{margin:0;overflow-wrap:anywhere}
+#nexbuy-web .sg-facts{font-size:13px;gap:9px}
+#nexbuy-web .sk-share{margin-top:10px}
+#nexbuy-web .sk-share-button{width:100%;min-height:44px;border:1px solid #cddbc1;border-radius:99px;background:transparent;color:#52674a;font:12px Manrope,Arial,sans-serif}
+#nexbuy-web .sk-share-menu{margin-top:9px;border:1px solid #d5dfcc;background:#edf3e4;padding:9px;border-radius:13px;display:flex;flex-wrap:wrap;gap:8px}
+#nexbuy-web .sk-share-menu a,#nexbuy-web .sk-share-menu button{display:inline-flex;align-items:center;justify-content:center;flex:1;min-height:44px;padding:8px;border:0;border-radius:9px;background:#fffefb;color:#314b34;font:11px Manrope,Arial,sans-serif;text-decoration:none}
+#nexbuy-web .sk-share-menu input{box-sizing:border-box;width:100%;min-height:44px;border:1px solid #c8d8b9;background:#fffefb;border-radius:9px;padding:8px;color:#263b36;font-size:12px}
+#nexbuy-web .sk-share-status{font-size:11px;line-height:1.6;color:#52674a;margin:7px 0 0}
+#nexbuy-web .sk-details-editor{margin-top:18px;border:1px solid #d5dfcc;border-radius:14px;padding:14px;min-width:0}
+#nexbuy-web .sk-details-editor legend{font-size:12px;color:#42533c;padding:0 6px}
+#nexbuy-web .sk-details-editor p{font-size:11px;color:#65765c;line-height:1.7;margin:0 0 12px}
+#nexbuy-web .sk-detail-row{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1.6fr);gap:10px;margin-top:10px}
+#nexbuy-web .sk-catalog-tools :focus-visible,#nexbuy-web .sk-share :focus-visible{outline:3px solid #8eb672;outline-offset:3px}
+@media(max-width:660px){#nexbuy-web .sk-catalog-controls{grid-template-columns:1fr}#nexbuy-web .sk-catalog-controls input,#nexbuy-web .sk-catalog-controls select{font-size:16px}#nexbuy-web .sk-category-nav{gap:7px}#nexbuy-web .sk-category-nav button{padding:9px 13px}#nexbuy-web .sk-category-heading h2{font-size:29px}}

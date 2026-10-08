@@ -1,0 +1,406 @@
+[
+  {
+    "id": "6ae97ff4-df45-4de9-9057-276d717f295f",
+    "name": "Afnan Supremacy Collector’s Edition",
+    "category": "Perfumería",
+    "description": "Pour Homme. Deslizá las fotos para ver la ficha del perfume.",
+    "priceCents": 12500000,
+    "quantity": 1,
+    "quantityKnown": false,
+    "gallery": [
+      "/assets/stock/supremacy-collectors.webp",
+      "/assets/stock/supremacy-collectors-ficha.jpg"
+    ],
+    "delivery": "Retiro o envío a coordinar",
+    "details": [
+      {
+        "label": "Marca",
+        "value": "Afnan"
+      },
+      {
+        "label": "Concentración",
+        "value": "Eau de Parfum"
+      },
+      {
+        "label": "Notas",
+        "value": "Piña, bergamota y musgo de roble"
+      }
+    ]
+  },
+  {
+    "id": "2d3aeb50-c494-4907-b1e6-cd726cba1419",
+    "name": "Rasasi Hawas Verde",
+    "category": "Perfumería",
+    "description": "Deslizá las fotos para ver la ficha del perfume.",
+    "priceCents": 9500000,
+    "quantity": 1,
+    "quantityKnown": false,
+    "gallery": [
+      "/assets/stock/hawas-verde.webp",
+      "/assets/stock/hawas-verde-ficha.jpg"
+    ],
+    "delivery": "Retiro o envío a coordinar",
+    "details": [
+      {
+        "label": "Marca",
+        "value": "Rasasi"
+      },
+      {
+        "label": "Notas",
+        "value": "Lima, romero y manzana"
+      }
+    ]
+  },
+  {
+    "id": "1b7ad9cc-c440-461b-9e5c-180d5bdf2022",
+    "name": "Rasasi Hawas Tropical",
+    "category": "Perfumería",
+    "description": "Deslizá las fotos para ver la ficha del perfume.",
+    "priceCents": 8000000,
+    "quantity": 1,
+    "quantityKnown": false,
+    "gallery": [
+      "/assets/stock/hawas-tropical.webp",
+      "/assets/stock/hawas-tropical-ficha.jpg"
+    ],
+    "delivery": "Retiro o envío a coordinar",
+    "details": [
+      {
+        "label": "Marca",
+        "value": "Rasasi"
+      },
+      {
+        "label": "Notas",
+        "value": "Coco, hoja de higuera y sándalo"
+      }
+    ]
+  },
+  {
+    "id": "fc40243e-cfd9-4409-902c-4dbe753bf49b",
+    "name": "Rasasi Hawas Malibu",
+    "category": "Perfumería",
+    "description": "Deslizá las fotos para ver la ficha del perfume.",
+    "priceCents": 9500000,
+    "quantity": 1,
+    "quantityKnown": false,
+    "gallery": [
+      "/assets/stock/hawas-malibu.webp",
+      "/assets/stock/hawas-malibu-ficha.jpg"
+    ],
+    "delivery": "Retiro o envío a coordinar",
+    "details": [
+      {
+        "label": "Marca",
+        "value": "Rasasi"
+      },
+      {
+        "label": "Notas",
+        "value": "Piña, haba tonka y naranja"
+      }
+    ]
+  },
+  {
+    "id": "bf110a91-f16a-4602-a2ed-89b05f6d1968",
+    "name": "Rasasi Hawas Kobra",
+    "category": "Perfumería",
+    "description": "Deslizá las fotos para ver la ficha del perfume.",
+    "priceCents": 8800000,
+    "quantity": 1,
+    "quantityKnown": false,
+    "gallery": [
+      "/assets/stock/hawas-kobra.webp",
+      "/assets/stock/hawas-kobra-ficha.jpg"
+    ],
+    "delivery": "Retiro o envío a coordinar",
+    "details": [
+      {
+        "label": "Marca",
+        "value": "Rasasi"
+      },
+      {
+        "label": "Notas",
+        "value": "Jengibre, almizcle y bergamota"
+      }
+    ]
+  },
+  {
+    "id": "e41b8ea1-71e0-404d-8640-e71c92a09366",
+    "name": "Afnan 9 PM Night Out",
+    "category": "Perfumería",
+    "description": "Deslizá las fotos para ver la ficha del perfume.",
+    "priceCents": 11800000,
+    "quantity": 1,
+    "quantityKnown": false,
+    "gallery": [
+      "/assets/stock/9pm-night-out.webp",
+      "/assets/stock/9pm-night-out-ficha.jpg"
+    ],
+    "delivery": "Retiro o envío a coordinar",
+    "details": [
+      {
+        "label": "Marca",
+        "value": "Afnan"
+      },
+      {
+        "label": "Concentración",
+        "value": "Extrait de Parfum"
+      },
+      {
+        "label": "Notas",
+        "value": "Pitahaya, toffee y haba tonka"
+      }
+    ]
+  },
+  {
+    "id": "45b0406c-5947-4425-996f-02ed05954e2e",
+    "name": "French Avenue Liquid Brun Limited Edition",
+    "category": "Perfumería",
+    "description": "Deslizá las fotos para ver la ficha del perfume.",
+    "priceCents": 13500000,
+    "quantity": 1,
+    "quantityKnown": false,
+    "gallery": [
+      "/assets/stock/liquid-brun-limited-edition.webp",
+      "/assets/stock/liquid-brun-limited-edition-ficha.jpg"
+    ],
+    "delivery": "Retiro o envío a coordinar",
+    "details": [
+      {
+        "label": "Marca",
+        "value": "French Avenue"
+      },
+      {
+        "label": "Concentración",
+        "value": "Extrait de Parfum"
+      },
+      {
+        "label": "Notas",
+        "value": "Vainilla, azahar y haba tonka"
+      }
+    ]
+  },
+  {
+    "id": "262ee3a2-2c1a-4a41-aab1-a3c5c7317cb8",
+    "name": "Armaf Club de Nuit Iconic Extrait de Parfum",
+    "category": "Perfumería",
+    "description": "Deslizá las fotos para ver la ficha del perfume.",
+    "priceCents": 10500000,
+    "quantity": 1,
+    "quantityKnown": false,
+    "gallery": [
+      "/assets/stock/club-de-nuit-iconic-extrait.webp",
+      "/assets/stock/club-de-nuit-iconic-extrait-ficha.jpg"
+    ],
+    "delivery": "Retiro o envío a coordinar",
+    "details": [
+      {
+        "label": "Marca",
+        "value": "Armaf"
+      },
+      {
+        "label": "Concentración",
+        "value": "Extrait de Parfum"
+      },
+      {
+        "label": "Notas",
+        "value": "Toronja, incienso y notas amaderadas"
+      }
+    ]
+  },
+  {
+    "id": "352aaa94-baa3-4c36-a40d-4340112f6cea",
+    "name": "Armaf Club de Nuit Précieux I",
+    "category": "Perfumería",
+    "description": "Deslizá las fotos para ver la ficha del perfume.",
+    "priceCents": 11000000,
+    "quantity": 1,
+    "quantityKnown": false,
+    "gallery": [
+      "/assets/stock/club-de-nuit-precieux-i.webp",
+      "/assets/stock/club-de-nuit-precieux-i-ficha.jpg"
+    ],
+    "delivery": "Retiro o envío a coordinar",
+    "details": [
+      {
+        "label": "Marca",
+        "value": "Armaf"
+      },
+      {
+        "label": "Concentración",
+        "value": "Extrait de Parfum"
+      },
+      {
+        "label": "Notas",
+        "value": "Piña, limón y ambroxan"
+      }
+    ]
+  },
+  {
+    "id": "da37678a-9561-49fc-a0e7-52182e510ea4",
+    "name": "Rayhaan Wolf",
+    "category": "Perfumería",
+    "description": "Deslizá las fotos para ver la ficha del perfume.",
+    "priceCents": 10200000,
+    "quantity": 1,
+    "quantityKnown": false,
+    "gallery": [
+      "/assets/stock/rayhaan-wolf.webp",
+      "/assets/stock/rayhaan-wolf-ficha.jpg"
+    ],
+    "delivery": "Retiro o envío a coordinar",
+    "details": [
+      {
+        "label": "Marca",
+        "value": "Rayhaan"
+      },
+      {
+        "label": "Concentración",
+        "value": "Eau de Parfum"
+      },
+      {
+        "label": "Notas",
+        "value": "Toffee, cardamomo y madera de ámbar"
+      }
+    ]
+  },
+  {
+    "id": "abc632e0-f15b-4288-97c4-ae6de20af0ed",
+    "name": "Rayhaan Azul",
+    "category": "Perfumería",
+    "description": "Deslizá las fotos para ver la ficha del perfume.",
+    "priceCents": 11000000,
+    "quantity": 1,
+    "quantityKnown": false,
+    "gallery": [
+      "/assets/stock/rayhaan-azul.webp",
+      "/assets/stock/rayhaan-azul-ficha.jpg"
+    ],
+    "delivery": "Retiro o envío a coordinar",
+    "details": [
+      {
+        "label": "Marca",
+        "value": "Rayhaan"
+      },
+      {
+        "label": "Concentración",
+        "value": "Eau de Parfum"
+      },
+      {
+        "label": "Notas",
+        "value": "Limón, bergamota y sándalo"
+      }
+    ]
+  },
+  {
+    "id": "1d79f7b7-f58e-4b60-9389-5a2b0100d698",
+    "name": "French Avenue Amber Empire",
+    "category": "Perfumería",
+    "description": "Deslizá las fotos para ver la ficha del perfume.",
+    "priceCents": 13000000,
+    "quantity": 1,
+    "quantityKnown": false,
+    "gallery": [
+      "/assets/stock/amber-empire.webp",
+      "/assets/stock/amber-empire-ficha.jpg"
+    ],
+    "delivery": "Retiro o envío a coordinar",
+    "details": [
+      {
+        "label": "Marca",
+        "value": "French Avenue"
+      },
+      {
+        "label": "Concentración",
+        "value": "Extrait de Parfum"
+      },
+      {
+        "label": "Notas",
+        "value": "Ámbar, vainilla y haba tonka"
+      }
+    ]
+  },
+  {
+    "id": "0d98b8bb-6367-47fb-b879-6f535a206c8a",
+    "name": "Riiffs Momento",
+    "category": "Perfumería",
+    "description": "Deslizá las fotos para ver la ficha del perfume.",
+    "priceCents": 11500000,
+    "quantity": 1,
+    "quantityKnown": false,
+    "gallery": [
+      "/assets/stock/riiffs-momento.webp",
+      "/assets/stock/riiffs-momento-ficha.jpg"
+    ],
+    "delivery": "Retiro o envío a coordinar",
+    "details": [
+      {
+        "label": "Marca",
+        "value": "Riiffs"
+      },
+      {
+        "label": "Concentración",
+        "value": "Extrait de Parfum"
+      },
+      {
+        "label": "Notas",
+        "value": "Haba tonka, rosa y caramelo"
+      }
+    ]
+  },
+  {
+    "id": "bfa62c74-4446-4123-aade-a9c2caba8cb8",
+    "name": "Afnan Turathi Blue",
+    "category": "Perfumería",
+    "description": "Deslizá las fotos para ver la ficha del perfume.",
+    "priceCents": 10200000,
+    "quantity": 1,
+    "quantityKnown": false,
+    "gallery": [
+      "/assets/stock/turathi-blue.webp",
+      "/assets/stock/turathi-blue-ficha.jpg"
+    ],
+    "delivery": "Retiro o envío a coordinar",
+    "details": [
+      {
+        "label": "Marca",
+        "value": "Afnan"
+      },
+      {
+        "label": "Concentración",
+        "value": "Eau de Parfum"
+      },
+      {
+        "label": "Notas",
+        "value": "Cítricos, almizcle y notas amaderadas"
+      }
+    ]
+  },
+  {
+    "id": "52b1b8b6-30a0-4087-bd59-3e5f06d99b00",
+    "name": "Bharara Rome Extradose",
+    "category": "Perfumería",
+    "description": "Deslizá las fotos para ver la ficha del perfume.",
+    "priceCents": 11000000,
+    "quantity": 1,
+    "quantityKnown": false,
+    "gallery": [
+      "/assets/stock/rome-extradose.webp",
+      "/assets/stock/rome-extradose-ficha.jpg"
+    ],
+    "delivery": "Retiro o envío a coordinar",
+    "details": [
+      {
+        "label": "Marca",
+        "value": "Bharara"
+      },
+      {
+        "label": "Concentración",
+        "value": "Eau de Parfum"
+      },
+      {
+        "label": "Notas",
+        "value": "Lavanda, notas especiadas y amaderadas"
+      }
+    ]
+  }
+]

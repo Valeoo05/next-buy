@@ -1,0 +1,48 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1790859733626,
+      "tag": "0000_parched_emma_frost",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1790863636439,
+      "tag": "0001_outgoing_vargas",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "6",
+      "when": 1790866809243,
+      "tag": "0002_flawless_puff_adder",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "6",
+      "when": 1790983064864,
+      "tag": "0003_mean_shaman",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "6",
+      "when": 1791297342734,
+      "tag": "0004_skinny_human_torch",
+      "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "6",
+      "when": 1791333159774,
+      "tag": "0005_steady_glorian",
+      "breakpoints": true
+    }
+  ]
+}

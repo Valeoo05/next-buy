@@ -1,0 +1,1 @@
+ALTER TABLE `requests` ADD `email_return_hash` text;

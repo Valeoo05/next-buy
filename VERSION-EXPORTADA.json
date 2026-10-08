@@ -1,0 +1,14 @@
+{
+  "sitio": "NexBuy Importaciones",
+  "version_publicada": 15,
+  "commit": "7524b442582cf3160a6b4cdbc6c71522ba30da20",
+  "url": "https://nexbuy-importaciones.juanperal05.chatgpt.site",
+  "fecha_exportacion": "2026-10-08",
+  "extras_exportacion": [
+    "scripts/preview-local.mjs",
+    "LEEME-PRIMERO.md",
+    "ABRIR-WEB.html",
+    "VERSION-EXPORTADA.json"
+  ],
+  "nota": "La copia incluye un comando local de vista previa; no concede acceso ni publica cambios en el sitio original."
+}

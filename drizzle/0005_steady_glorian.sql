@@ -1,0 +1,1 @@
+ALTER TABLE `stock_products` ADD `details` text;

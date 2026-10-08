@@ -1,0 +1,20 @@
+{
+  "name": "nexbuy-importaciones",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "check": "node --check public/app.js && node --check public/attachments.js && node --check public/email-delivery.js && node --check public/admin.js && node --check public/admin-login.js && node --check public/seda-common.js && node --check public/stock.js && node --check public/admin-stock.js && node --check worker/index.mjs && node --check netlify/edge-functions/nexbuy-proxy.js",
+    "db:generate": "drizzle-kit generate",
+    "verify": "node scripts/verify-registry.mjs && node scripts/verify-form.mjs && node scripts/verify-stock.mjs",
+    "preview:local": "node scripts/preview-local.mjs",
+    "build:netlify": "node scripts/build-netlify.mjs",
+    "verify:netlify": "node scripts/verify-netlify.mjs"
+  },
+  "devDependencies": {
+    "drizzle-kit": "^0.31.11",
+    "drizzle-orm": "^0.45.3",
+    "jsdom": "^30.1.1"
+  }
+}
